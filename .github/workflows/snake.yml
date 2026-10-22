@@ -1,0 +1,41 @@
+name: Generate Miku Snake
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "assets/miku-snake.svg"
+      - "assets/miku-snake-dark.svg"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: miku-snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/miku-snake.svg?color_snake=%2339C5BB&color_dots=%23ebedf0,%23b7e9e5,%237fe9e1,%2339c5bb,%23ff69b4
+            assets/miku-snake-dark.svg?color_snake=%23FF69B4&color_dots=%23161b22,%231b4b49,%23277f7a,%2339c5bb,%23ff69b4
+
+      - name: Commit updated snake
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh Miku contribution snake"
+          file_pattern: "assets/miku-snake*.svg"
