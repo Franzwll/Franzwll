@@ -18,6 +18,10 @@
 
 <img src="assets/miku-equalizer.svg" width="100%" alt="Animated teal and pink Hatsune Miku equalizer" />
 
+<div align="center">
+  <img src="assets/miku.gif" width="360" alt="Hatsune Miku sleeping with headphones" />
+</div>
+
 ## `❯ stack --list`
 
 <div align="center">
