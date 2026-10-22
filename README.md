@@ -18,15 +18,6 @@
 
 <img src="assets/miku-equalizer.svg" width="100%" alt="Animated teal and pink Hatsune Miku equalizer" />
 
-## `❯ api --routes`
-
-| METHOD | ENDPOINT | RETURNS | STATUS |
-| :---: | :--- | :--- | :---: |
-| `GET` | [`/users/Franzwll`](https://api.github.com/users/Franzwll) | identity payload | ![200](https://img.shields.io/badge/200-OK-39C5BB?style=flat-square&labelColor=0D1117) |
-| `GET` | [`/users/Franzwll/repos`](https://api.github.com/users/Franzwll/repos) | shipped projects | ![200](https://img.shields.io/badge/200-OK-39C5BB?style=flat-square&labelColor=0D1117) |
-| `GET` | [`/users/Franzwll/starred`](https://api.github.com/users/Franzwll/starred) | references + inspiration | ![200](https://img.shields.io/badge/200-OK-39C5BB?style=flat-square&labelColor=0D1117) |
-| `POST` | [`/users/Franzwll`](https://github.com/Franzwll) | start a collab | ![OPEN](https://img.shields.io/badge/OPEN-TO%20COLLAB-FF69B4?style=flat-square&labelColor=0D1117) |
-
 ## `❯ stack --list`
 
 <div align="center">
