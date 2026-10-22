@@ -18,36 +18,6 @@
 
 <img src="assets/miku-equalizer.svg" width="100%" alt="Animated teal and pink Hatsune Miku equalizer" />
 
-## `❯ whoami`
-
-```console
-franzel@miku:~$ curl -s /v1/franzel
-{
-  "status": 200,
-  "data": {
-    "name": "Franzel",
-    "alias": "Franzwll",
-    "role": "full-stack developer",
-    "location": "Manila, Philippines",
-    "timezone": "UTC+8",
-    "stack": ["TypeScript", "PHP", "Laravel", "Java", "JavaScript"],
-    "currently": "shipping APIs + looping Vocaloid",
-    "theme": "Hatsune Miku"
-  }
-}
-
-franzel@miku:~$ cat ~/.miku.ascii
-        ,、       ,､ ヾＶ'/
-      r'ｰ》'´｀⌒ヾ‐》,//
-      i   iミ ノ ﾘハﾘ//
-      !   iﾞ瓦ﾟ ヮﾟﾉ!'//|
-      !l! ! と.ﾌﾘ{つ/  !
-    ,,ﾉﾘ |  v/_j_､ i!l  i
-    ..ゞノ   ~じ'ﾌ~ﾙ'ノ
-
-franzel@miku:~$ _
-```
-
 ## `❯ api --routes`
 
 | METHOD | ENDPOINT | RETURNS | STATUS |
