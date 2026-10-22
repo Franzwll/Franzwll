@@ -80,7 +80,7 @@ franzel@miku:~$ _
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Franzwll&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=39C5BB&text_color=C9D1D9&icon_color=FF69B4&ring_color=39C5BB" alt="Franzwll's GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Franzwll&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39C5BB&text_color=C9D1D9&icon_color=FF69B4&ring_color=39C5BB" alt="Franzwll's GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franzwll&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=39C5BB&text_color=C9D1D9" alt="Most used languages" />
 
 <br/>
