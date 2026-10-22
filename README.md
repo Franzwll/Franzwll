@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/miku.gif" width="500" alt="Hatsune Miku sleeping with headphones" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,45:123B3A,100:39C5BB&height=230&section=header&text=FRANZWLL&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=HATSUNE%20MIKU%20%E2%80%A2%20FULL-STACK%20MODE&descAlignY=58&descSize=16&stroke=39C5BB&strokeWidth=1" width="100%" alt="Franzwll - Hatsune Miku themed profile banner" />
+<img src="assets/miku-panel.gif" width="100%" alt="Franzwll - Hatsune Miku profile panel" />
 
 <a href="https://github.com/Franzwll">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=39C5BB&center=true&vCenter=true&repeat=true&width=780&lines=minsan%20full%20stack%2C%20madalas%20maganda;01%20%2F%2F%20Hatsune%20Miku%20fan%20%26%20full-stack%20dev;GET%20%2Fv1%2Ffranzel%20%E2%86%92%20200%20OK;building%20APIs%20by%20day%2C%20Vocaloid%20by%20night" alt="Typing animation: minsan full stack, madalas maganda" />
