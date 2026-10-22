@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/miku.gif" width="100%" alt="Hatsune Miku sleeping with headphones" />
+<img src="assets/miku.gif" width="500" alt="Hatsune Miku sleeping with headphones" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,45:123B3A,100:39C5BB&height=230&section=header&text=FRANZWLL&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=HATSUNE%20MIKU%20%E2%80%A2%20FULL-STACK%20MODE&descAlignY=58&descSize=16&stroke=39C5BB&strokeWidth=1" width="100%" alt="Franzwll - Hatsune Miku themed profile banner" />
 
