@@ -3,7 +3,7 @@
 <img src="assets/miku-panel.gif" width="100%" alt="Franzwll - Hatsune Miku profile panel" />
 
 <a href="https://github.com/Franzwll">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=39C5BB&center=true&vCenter=true&repeat=true&width=780&lines=minsan%20full%20stack%2C%20madalas%20maganda;01%20%2F%2F%20Hatsune%20Miku%20fan%20%26%20full-stack%20dev;" alt="Typing animation: minsan full stack, madalas maganda" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=39C5BB&center=true&vCenter=true&repeat=true&width=780&lines=minsan%20full%20stack%2C%20madalas%20maganda;" alt="Typing animation: minsan full stack, madalas maganda" />
 </a>
 
 <br/>
