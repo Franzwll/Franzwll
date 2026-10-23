@@ -6,13 +6,64 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=39C5BB&center=true&vCenter=true&repeat=true&width=780&lines=minsan%20full%20stack%2C%20madalas%20maganda;" alt="Typing animation: minsan full stack, madalas maganda" />
 </a>
 
+### Hi!👋 I'm Franzel · [@Franzwll](https://github.com/Franzwll)
+
+*FULL-STACK DEV · VOCALOID ENJOYER · MANILA*
+
 <br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Franzwll.Profile&left_text=PROFILE%20VIEWS&left_color=0D1117&right_color=39C5BB" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Franzwll?label=FOLLOWERS&style=flat-square&color=39C5BB&labelColor=0D1117" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/Franzwll?label=STARS&style=flat-square&color=FF69B4&labelColor=0D1117" alt="GitHub stars" />
 <img src="https://img.shields.io/badge/STATUS-ONLINE-39C5BB?style=flat-square&labelColor=0D1117" alt="Online" />
 <img src="https://img.shields.io/badge/LOCATION-MANILA%2C%20PH-FF69B4?style=flat-square&labelColor=0D1117" alt="Manila, Philippines" />
+
+</div>
+
+## **☕ About me**
+
+<table>
+  <tr>
+    <td><img src="assets/miku.gif" width="280" alt="Hatsune Miku" /></td>
+    <td align="left" valign="top">
+      <ul>
+        <li>Name: <b>Franzel</b> · a.k.a. <b>Franzwll</b></li>
+        <li>Residing in: <b>Manila, Philippines</b></li>
+        <li>Work: <b>Full-stack developer</b></li>
+        <li>Stack: <b>TypeScript, PHP / Laravel, Java, MySQL / TiDB</b></li>
+        <li>Currently: <b>shipping APIs, then shipping playlists</b></li>
+        <li>Languages: <b>Filipino, English</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## **💻 Experience**
+
+<table>
+  <tr>
+    <td><img src="assets/miku-panel.gif" width="280" alt="Hatsune Miku panel" /></td>
+    <td align="left" valign="top">
+      <ul>
+        <li>Builds the unglamorous stuff that keeps organizations running: hospital BPM, HRMS, finance, and canteen ordering systems.</li>
+        <li>Comfortable across the stack &mdash; Laravel/PHP backends, TypeScript/JavaScript frontends, and MySQL/TiDB data layers.</li>
+        <li>Hand-animates this profile's Miku art in SVG and GIF, with a snake graph refreshed daily by GitHub Actions.</li>
+        <li>Off the clock: Hatsune Miku, Vocaloid, and anything with a terminal aesthetic.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## **🧋 Visitor counter**
+
+<div align="center">
+
+<a href="https://github.com/Franzwll">
+  <img src="https://count.getloli.com/@franzwll?name=franzwll&theme=moebooru&padding=7&offset=0&scale=1&pixelated=1&darkmode=0" alt="Profile visitor counter" />
+</a>
+
+People who visit my profile :3.
+
+Another visitor caught in the chorus~.
 
 </div>
 
@@ -91,7 +142,13 @@
 
 <br/>
 
+## **📫 Contact**
+
 <div align="center">
+
+**Quickest response is on Instagram** &mdash; otherwise open an issue or catch me on GitHub.
+
+<br/>
 
 <a href="https://github.com/Franzwll"><img src="https://img.shields.io/badge/GitHub-Franzwll-39C5BB?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub profile" /></a>
 <a href="https://instagram.com/franzwll"><img src="https://img.shields.io/badge/Instagram-franzwll-FF69B4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram profile" /></a>
